@@ -36,11 +36,11 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/bgizdov"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bgizdov" /></a><a href="https://ko-fi.com/bgizdov"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="bgizdov" /></a></p><br><br>
 <br />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bgizdov&show_icons=true&locale=en&layout=compact" alt="bgizdov" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bgizdov&show_icons=true&locale=en" alt="bgizdov" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bgizdov&" alt="bgizdov" /></p>
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=bgizdov&show_icons=true&locale=en&layout=compact" alt="bgizdov" /></p>
+<br />
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=bgizdov&show_icons=true&locale=en" alt="bgizdov" /></p>
+<br />
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=bgizdov&" alt="bgizdov" /></p>
 
 
 
