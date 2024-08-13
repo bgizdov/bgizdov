@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **quarkus, android, ios**
 
-- 📫 How to reach me **borislav.gizdov@gmail.com**
+- 📫 How to reach me **borislav.gizdov@<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">.com**
 
 - 📄 Know about my experiences [https://linkedin.com/in/borislavgizdov](https://linkedin.com/in/borislavgizdov)
 
