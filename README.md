@@ -5,21 +5,23 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bgizdov" alt="bgizdov" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/bgizdov" target="blank"><img src="https://img.shields.io/twitter/follow/bgizdov?logo=twitter&style=for-the-badge" alt="bgizdov" /></a> </p>
+- 🚀 Proficient in various backend and mobile technologies, including Quarkus, Spring, Google Cloud Platform, as well as iOS and Android development.
+
+- 🔧 Experienced in DevOps, using its core principles to create and deploy tools in the cloud while following the CI/CD process.
+
+- 🐳 Knowledgeable in modern build tools like Docker containers and managing them with Kubernetes, ensuring secure server protocols and reliable technology.
+
+- 💬 Ask me about **Quarkus, Android, iOS, DevOps** - [Book Time](https://calendly.com/borislav-gizdov/30min)
 
 - 🔭 I’m currently working on [Tesla Game Zone](https://github.com/bgizdov/tesla-game-zone)
 
-- 📅 Book Time with me Today! [Book Time](https://calendly.com/borislav-gizdov/30min)
-
-- 👨‍💻 All of my projects are available at [https://www.borixo.com/](https://www.borixo.com/)
+- 📱 Some of my projects are available at [https://www.borixo.com/](https://www.borixo.com/)
 
 - 📝 I regularly write tweets on [https://x.com/bgizdov](https://x.com/bgizdov)
 
-- 💬 Ask me about **quarkus, android, ios**
-
-- 📫 How to reach me **borislav.gizdov@<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">.com**
-
 - 📄 Know about my experiences [https://linkedin.com/in/borislavgizdov](https://linkedin.com/in/borislavgizdov)
+
+- 📫 How to reach me **borislav.gizdov@<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">.com**  or DM on Twitter <a href="https://x.com/bgizdov" target="blank"><img src="https://img.shields.io/twitter/follow/bgizdov?logo=twitter&style=for-the-badge" alt="bgizdov" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,6 +45,7 @@
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=bgizdov&" alt="bgizdov" /></p>
 
 
-
 - [Borislav Gizdov Linktree](https://linktr.ee/bgizdov)
 - [Borislav Gizdov AboutMe](https://about.me/borislavgizdov)
+- [Borislav Gizdov Start Page](https://bgizdov.start.page/)
+
