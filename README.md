@@ -38,7 +38,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/bgizdov"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bgizdov" /></a><a href="https://ko-fi.com/bgizdov"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="bgizdov" /></a></p><br><br>
 <br />
-<p><img  width="400px" src="https://github-readme-stats-gamma-dun.vercel.app/api?username=bgizdov&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="bgizdov's Stats" />
+<p><img  width="400px" src="https://github-readme-stats-gamma-dun.vercel.app/api?username=bgizdov&theme=vue-dark&show_icons=true&hide_border=false&count_private=true&rank_icon=github" alt="bgizdov's Stats" />
 <br />
 <img  width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=bgizdov&theme=vue-dark&hide_border=false" alt="bgizdov's Streak" />
 <br />
