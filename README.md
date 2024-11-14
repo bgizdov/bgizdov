@@ -41,7 +41,7 @@
 <p><img  width="400px" src="https://github-readme-stats-gamma-dun.vercel.app/api?username=bgizdov&theme=vue-dark&show_icons=true&hide_border=false&count_private=true&rank_icon=github" alt="bgizdov's Stats" />
 <br />
   
-<img width="400px" src="https://streak-stats.demolab.com/?user=bgizdov&theme=vue-dark&hide_border=false" alt="bgizdov's Streak" /
+<img width="400px" src="https://streak-stats.demolab.com/?user=bgizdov&theme=vue-dark&hide_border=false" alt="bgizdov's Streak" />
 
 <br />
 
