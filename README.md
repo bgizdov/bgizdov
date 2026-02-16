@@ -1,13 +1,14 @@
 # Hi, I'm Borislav 👋
 
-📍 Bulgaria ↔ Remote • 👨‍💻 Tech Lead • 🚀 Previously: AdTapsy Co-founder
+**📍 Sofia ↔ Remote • 👨‍💻 Tech Lead • 🚀 Previously: AdTapsy Co-founder**
 
 Crafting scalable backend, mobile, and cloud solutions powered by modern tech and AI.
 
-📱 Vibe coding from my phone ✨
+> 📱 Vibe coding from my phone ✨
 
+
+ 
 ### 🚀 Current Projects
-
 ---
 
 #### [🌐 awesome-mcp-servers](https://github.com/bgizdov/awesome-mcp-servers) - Curated list of Model Context Protocol servers
@@ -20,9 +21,8 @@ Crafting scalable backend, mobile, and cloud solutions powered by modern tech an
 
 #### [🐳 multi-lang-ai-devcontainer](https://github.com/bgizdov/multi-lang-ai-devcontainer) - Multi-language devcontainer with AI assistants (Claude, Gemini)
 
-
+ 
 ### 📱 Past Work
-
 ---
 
 #### [🔐 gcp-api-key-auditor](https://github.com/bgizdov/gcp-api-key-auditor) - Python tool to audit and secure GCP API keys
@@ -33,19 +33,19 @@ Crafting scalable backend, mobile, and cloud solutions powered by modern tech an
 
 #### [📈 Futuresboard Notificator](https://github.com/bgizdov/futuresboard-notificator) - Python script for real-time crypto profit notifications via Pushbullet and ntfy
 
-#### [🚀 Borixo](https://borixo.com/) - Founded and built 15+ mobile apps with 6M+ total downloads including TransZilla Translator, Horoscopes Plus, and various iOS/Android games
+#### [🚀 Borixo](https://borixo.com/) - Founded and built mobile apps with 6M+ total downloads including TransZilla Translator, Horoscopes Plus, Dirt Bikes Can Fly, Xplosion, ...
 
-#### [📊 AdTapsy](https://github.com/AdTapsy) - Co-founded mobile ad network mediation platform and built the Android SDK
+#### [📊 AdTapsy](https://github.com/AdTapsy) - Co-founded Mobile Ad Network Mediation Platform with 1000+ apps
 
+  
 
 ### 📊 GitHub Activity
-
 ---
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bgizdov&theme=react-dark&hide_border=true&area=true)
 
+ 
 ### 🛠️ Tech Stack
-
 ---
 
 #### Backend & Cloud
@@ -107,8 +107,8 @@ Crafting scalable backend, mobile, and cloud solutions powered by modern tech an
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
+  
 ### 🌐 Connect
-
 ---
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/bgizdov)
@@ -124,10 +124,8 @@ Crafting scalable backend, mobile, and cloud solutions powered by modern tech an
 
 📫 Email: borislav.gizdov@gmail.com
 
----
-
+ 
 ### 📈 GitHub Stats
-
 ---
 
 <p align="center">
@@ -143,8 +141,8 @@ Crafting scalable backend, mobile, and cloud solutions powered by modern tech an
   <img width="48%" src="https://streak-stats.demolab.com/?user=bgizdov&theme=vue-dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
+ 
 ### ☕ Support
-
 ---
 
 <p>
