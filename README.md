@@ -8,6 +8,8 @@ Crafting scalable backend, mobile, and cloud solutions powered by modern tech an
 
 ### 🚀 Current Projects
 
+---
+
 #### [🌐 awesome-mcp-servers](https://github.com/bgizdov/awesome-mcp-servers) - Curated list of Model Context Protocol servers
 
 #### [🎮 Indie Hacker Simulator](https://borixo.com/indiehacker/) - Game where you build a startup from scratch and reach $10K MRR
@@ -20,6 +22,8 @@ Crafting scalable backend, mobile, and cloud solutions powered by modern tech an
 
 
 ### 📱 Past Work
+
+---
 
 #### [🔐 gcp-api-key-auditor](https://github.com/bgizdov/gcp-api-key-auditor) - Python tool to audit and secure GCP API keys
 
@@ -36,9 +40,13 @@ Crafting scalable backend, mobile, and cloud solutions powered by modern tech an
 
 ### 📊 GitHub Activity
 
+---
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bgizdov&theme=react-dark&hide_border=true&area=true)
 
 ### 🛠️ Tech Stack
+
+---
 
 #### Backend & Cloud
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -101,6 +109,8 @@ Crafting scalable backend, mobile, and cloud solutions powered by modern tech an
 
 ### 🌐 Connect
 
+---
+
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/bgizdov)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/borislavgizdov)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/bgizdov)
@@ -118,6 +128,8 @@ Crafting scalable backend, mobile, and cloud solutions powered by modern tech an
 
 ### 📈 GitHub Stats
 
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bgizdov&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
@@ -132,6 +144,8 @@ Crafting scalable backend, mobile, and cloud solutions powered by modern tech an
 </p>
 
 ### ☕ Support
+
+---
 
 <p>
   <a href="https://www.buymeacoffee.com/bgizdov"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" /></a>
