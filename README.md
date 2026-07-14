@@ -1,6 +1,6 @@
 # Hi, I'm Borislav 👋
 
-**📍 Sofia ↔ Remote • 👨‍💻 Tech Lead • 🚀 Previously: AdTapsy Co-founder**
+**📍 Sofia • 👨‍💻 Tech Lead • 🚀 Previously: AdTapsy Co-founder**
 
 Crafting scalable backend, mobile, and cloud solutions powered by modern tech and AI.
 
