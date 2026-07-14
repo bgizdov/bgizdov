@@ -19,7 +19,7 @@ Crafting scalable backend, mobile, and cloud solutions powered by modern tech an
 
 #### [🤖 commit-genius](https://github.com/bgizdov/commit-genius) - AI-powered commit message generator using Gemini
 
-#### [🐳 multi-lang-ai-devcontainer](https://github.com/bgizdov/multi-lang-ai-devcontainer) - Multi-language devcontainer with AI assistants (Claude, Gemini)
+#### [🏭 dark-factory-ai-devcontainer](https://github.com/bgizdov/dark-factory-ai-devcontainer) - AI-augmented multi-language devcontainer with 14+ AI coding assistants pre-installed (Claude Code, Gemini, OpenCode, Codex, and more)
 
 #### [🧬 bioage-calc](https://github.com/bgizdov/bioage-calc) - Calculate biological age (PhenoAge, KDM, Extended) and functional age from medical lab results and physical fitness tests
 
