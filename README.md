@@ -21,6 +21,8 @@ Crafting scalable backend, mobile, and cloud solutions powered by modern tech an
 
 #### [🐳 multi-lang-ai-devcontainer](https://github.com/bgizdov/multi-lang-ai-devcontainer) - Multi-language devcontainer with AI assistants (Claude, Gemini)
 
+#### [🧬 bioage-calc](https://github.com/bgizdov/bioage-calc) - Calculate biological age (PhenoAge, KDM, Extended) and functional age from medical lab results and physical fitness tests
+
  
 ### 📱 Past Work
 ---
