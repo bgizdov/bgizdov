@@ -23,7 +23,7 @@ Crafting scalable backend, mobile, and cloud solutions powered by modern tech an
 
 #### [🧬 bioage-calc](https://github.com/bgizdov/bioage-calc) - Calculate biological age (PhenoAge, KDM, Extended) and functional age from medical lab results and physical fitness tests
 
-#### [🦀 crabwatch](https://github.com/bgizdov/crabwatch) - Monitor and track changes across GitHub repositories
+#### [🦀 crabwatch](https://github.com/bgizdov/crabwatch) - Pixel-art terminal dashboard showing Claude Code and opencode coding agents as animated crabs and robots
 
  
 ### 📱 Past Work
